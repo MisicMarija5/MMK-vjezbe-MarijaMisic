@@ -1,0 +1,21 @@
+
+
+body{
+    background-color: rgba(0, 0, 0, 0.882);
+
+}
+h1{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Titillium Web";
+    font-size: 40px;
+
+}
+p{
+    color: white;
+    font-family: "Titillium Web";
+    font-weight: 300;
+    font-style: normal;
+}
+
